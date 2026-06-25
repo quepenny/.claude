@@ -1,0 +1,1 @@
+Look at all uncommitted changes (staged and unstaged) using `git diff HEAD` and `git status`. Group the changes into logical commits — each commit should represent one coherent unit of work (e.g. a model change, a view migration, a test update). Commit each group separately with a concise imperative message. Do not add a Co-Authored-By trailer.
