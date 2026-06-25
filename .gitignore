@@ -1,6 +1,25 @@
+# Per-project memory
 projects/
+
+# Credentials & sensitive
 .credentials.json
 .last-cleanup
+
+# Ephemeral / session data
 backups/
 file-history/
 history.jsonl
+cache/
+sessions/
+session-env/
+shell-snapshots/
+plans/
+
+# Browser automation
+chrome/
+
+# Plugins (managed separately)
+plugins/
+
+# Local machine settings
+settings.json
