@@ -1,1 +1,6 @@
 projects/
+.credentials.json
+.last-cleanup
+backups/
+file-history/
+history.jsonl
