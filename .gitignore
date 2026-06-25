@@ -9,6 +9,9 @@ memory/
 .last-cleanup
 
 # Ephemeral / session data
+.last-update-result.json
+paste-cache/
+tasks/
 backups/
 file-history/
 history.jsonl
