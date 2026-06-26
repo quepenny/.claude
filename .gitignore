@@ -27,6 +27,9 @@ package-lock.json
 # Browser automation
 chrome/
 
+# Image cache
+image-cache/
+
 # Plugins (managed separately)
 plugins/
 
