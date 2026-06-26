@@ -14,6 +14,9 @@ sessions/
 session-env/
 shell-snapshots/
 plans/
+paste-cache/
+.last-update-result.json
+package-lock.json
 
 # Browser automation
 chrome/
