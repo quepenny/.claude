@@ -17,5 +17,5 @@ Personal Claude Code configuration — synced across machines.
 mv ~/.claude ~/.claude.bak
 
 # 2. Clone this repo in its place
-git clone git@github.com:quepenny/.claude.git ~/.claude
+git clone git@github.com:quepenny/.claude.git
 ```
