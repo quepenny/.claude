@@ -1,5 +1,21 @@
 {
-  "effortLevel": "high",
-  "theme": "dark",
-  "tui": "fullscreen"
+  "model": "claude-sonnet-4-6",
+  "hooks": {
+    "Notification": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"C:\\Users\\PaulOgbeiwi\\.claude\\claude-toast.ps1\"",
+            "shell": "powershell",
+            "timeout": 15,
+            "async": true
+          }
+        ]
+      }
+    ]
+  },
+  "autoUpdatesChannel": "latest",
+  "tui": "fullscreen",
+  "theme": "dark"
 }
