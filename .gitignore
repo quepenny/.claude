@@ -1,6 +1,9 @@
 # Per-project memory
 projects/
 
+# Machine-local memory (paths are machine-specific)
+memory/
+
 # Credentials & sensitive
 .credentials.json
 .last-cleanup
