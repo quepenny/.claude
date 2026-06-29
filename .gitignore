@@ -35,3 +35,4 @@ plugins/
 
 # IDE / editor lock files
 ide/
+.idea/
